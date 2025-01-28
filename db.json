@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "d27a",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@gmail.com",
+      "department": "DBA"
+    }
+  ]
+}

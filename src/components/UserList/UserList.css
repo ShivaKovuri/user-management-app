@@ -1,0 +1,59 @@
+h2 {
+  font-size: 25px;
+  font-weight: 400;
+  padding: 30px 0px;
+  text-align: center;
+}
+
+.btnContainer {
+  margin: 0 30px;
+  padding: 0px 30px;
+  text-align: right;
+}
+
+.btn {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.addBtn {
+  background-color: #97e8e8;
+  text-decoration: none;
+  color: #000;
+}
+
+.editBtn {
+  background-color: #c1e199;
+  margin-right: 30px;
+}
+
+.deleteBtn {
+  background-color: #ec8383;
+}
+
+.tableContainer {
+  padding: 20px 30px;
+  margin: 0 30px;
+}
+
+.tableContainer table {
+  width: 100%;
+  text-align: center;
+}
+
+.tableContainer th {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.tableContainer table,
+th,
+tr,
+td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  padding: 10px;
+}
